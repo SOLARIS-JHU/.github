@@ -1,6 +1,6 @@
 ## Scalable Optimization, Learning, And Robustness for Intelligent Systems (SOLARIS) Lab 
 
-We are an interdisciplinary research group in the Department of Civil and Systems Engineering and the Ralph S. O’Connor Sustainable Energy Institute (ROSEI) at Johns Hopkins University (JHU).
+We are an interdisciplinary research group in the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/) and the [Ralph S. O’Connor Sustainable Energy Institute (ROSEI)](https://energyinstitute.jhu.edu/) at Johns Hopkins University (JHU).
 We do research at the intersection of machine learning, optimization, control, and energy systems.
 
 ### Group Members
