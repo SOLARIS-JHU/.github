@@ -1,16 +1,16 @@
-# Scalable Optimization, Learning, And Robustness for Intelligent Systems (SOLARIS) Lab at Johns Hopkins University
+## Scalable Optimization, Learning, And Robustness for Intelligent Systems (SOLARIS) Lab 
 
 We are an interdisciplinary research group in the Department of Civil and Systems Engineering and the Ralph S. O’Connor Sustainable Energy Institute (ROSEI) at Johns Hopkins University (JHU).
 We do research at the intersection of machine learning, optimization, control, and energy systems.
 
-## Group Members
+### Group Members
 - [Ján Drgoňa](https://drgona.github.io/) (PI)
 - [Pietro Zanotta](https://www.linkedin.com/in/pietro-zanotta/) (PhD student)
 - Honghui Zheng (PhD student)
 - [Parv Khurama](https://www.linkedin.com/in/parv-khurana/) (postdoc)
 
 
-## Research Topics
+### Research Topics
 - differentiable programming
 - scientific machine learning (SciML)
 - physics-informed machine learning (PIML)
@@ -20,7 +20,7 @@ We do research at the intersection of machine learning, optimization, control, a
 - sustainable energy systems applications
 
 
-## Open-source Software
+### Open-source Software
 Our group maintains and contributes to several open-source SciML repositories.
 - [Neuromancer](https://github.com/pnnl/neuromancer)
 
