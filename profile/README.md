@@ -1,6 +1,6 @@
 ## Scalable Optimization, Learning, And Robustness for Intelligent Systems (SOLARIS) Lab 
 
-We are an interdisciplinary research group in the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/) and the [Ralph S. O’Connor Sustainable Energy Institute (ROSEI)](https://energyinstitute.jhu.edu/) at Johns Hopkins University (JHU).
+We are an interdisciplinary research group in the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/) affiliated with the [Ralph S. O’Connor Sustainable Energy Institute (ROSEI)](https://energyinstitute.jhu.edu/) and [Data Science and AI Institute (DSAI)](https://ai.jhu.edu/) at Johns Hopkins University (JHU).
 We do research at the intersection of machine learning, optimization, control, and energy systems.
 
 ### Group Members
@@ -13,8 +13,8 @@ We do research at the intersection of machine learning, optimization, control, a
 
 
 ### Research Topics
-- differentiable programming
 - scientific machine learning (SciML)
+- differentiable programming
 - physics-informed machine learning (PIML)
 - learning to optimize (L2O)
 - differentiable control
