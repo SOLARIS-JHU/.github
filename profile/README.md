@@ -17,7 +17,8 @@ We do research at the intersection of machine learning, optimization, control, a
 - differentiable programming
 - physics-informed machine learning (PIML)
 - learning to optimize (L2O)
-- differentiable control
+- learning to control (L2C)
+- model predictive control (MPC)
 - nonlinear system identification
 - sustainable energy systems applications
 
