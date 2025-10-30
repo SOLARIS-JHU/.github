@@ -8,7 +8,7 @@ We do research at the intersection of machine learning, optimization, control, a
 - [Pietro Zanotta](https://www.linkedin.com/in/pietro-zanotta/) (PhD student)
 - Honghui Zheng (PhD student)
 - [Alireza Daneshvar](https://www.linkedin.com/in/ali-reza-daneshvar-garmroodi-910ba4194/) (incoming PhD student)
-- [Parv Khurama](https://www.linkedin.com/in/parv-khurana/) (postdoc)
+- [Parv Khurana](https://www.linkedin.com/in/parv-khurana/) (postdoc)
 - [Liang Wu](https://www.linkedin.com/in/liang-wu-474371a9/) (postdoc)
 
 
